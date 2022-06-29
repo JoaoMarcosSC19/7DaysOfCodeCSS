@@ -1,0 +1,55 @@
+body {
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.flexbox-container {
+    background: white;
+    display: flex;     
+    justify-content: center;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: #667085; 
+    font-weight: 500;
+    flex-wrap: wrap;
+}
+
+.nome-empresa{
+    color: #3A404E;
+    padding: 0 10% 0 1%;
+}
+
+.cabecalio {
+    padding: 0 2% 0 2%;
+}
+
+.entrar{
+    padding: 0 1% 0 20%;
+}
+
+.cadastrar {
+    color: white;
+    padding: 10px 18px;
+    background: #8E2424;
+    border-radius: 8px;
+}
+
+.sobre-a-empresa{
+    text-align: center;
+}
+
+h1 {
+    color: #8E2424;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 20px;
+    color: #667085;
+}
